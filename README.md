@@ -1,4 +1,7 @@
 # platzi-exchange
+It is a page with the principal virtual exchanges
+
+See de page: https://exchanges-jcdelrioe.netlify.app/
 
 ## Project setup
 ```
